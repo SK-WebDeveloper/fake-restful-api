@@ -29,6 +29,20 @@
       "year": 2017,
       "Description": "Gaming Chair",
       "Price": 8000
+    },
+    {
+      "id": 3,
+      "type": "Sofa",
+      "year": 2019,
+      "Description": "comfortable seat with a good back support",
+      "Price": 40000
+    },
+    {
+      "id": 4,
+      "type": "Bed",
+      "year": 2017,
+      "Description": "Wooden bed with dual sofa come bed functionality",
+      "Price": 30000
     }
   ],
   "wishlisted": []
