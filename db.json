@@ -18,7 +18,7 @@
   "furniture": [
     {
       "id": 1,
-      "type": "Study table",
+      "type": "table",
       "year": 2019,
       "Description": "Wooden table with dual laptop setup",
       "Price": 50000
@@ -32,14 +32,14 @@
     },
     {
       "id": 3,
-      "type": "Sofa",
+      "type": "sofa",
       "year": 2019,
       "Description": "comfortable seat with a good back support",
       "Price": 40000
     },
     {
       "id": 4,
-      "type": "Bed",
+      "type": "bed",
       "year": 2017,
       "Description": "Wooden bed with dual sofa come bed functionality",
       "Price": 30000
