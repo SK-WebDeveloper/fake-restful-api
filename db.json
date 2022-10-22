@@ -14,5 +14,21 @@
       "place": "Banglore",
       "gender": "Female"
     }
+  ],
+  "furniture": [
+    {
+      "id": 1,
+      "type": "Study table",
+      "year": 2019,
+      "Description": "Wooden table with dual laptop setup",
+      "Price": 50000
+    },
+    {
+      "id": 2,
+      "type": "chair",
+      "year": 2017,
+      "Description": "Gaming Chair",
+      "Price": 8000
+    }
   ]
 }
